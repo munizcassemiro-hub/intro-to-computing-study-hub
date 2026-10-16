@@ -1,0 +1,222 @@
+[
+  {
+    "id": "T01",
+    "filename": "Comp Thinking Exersize 1 (1).docx",
+    "sha256": "eb41a1ea054b25ee36af32306c7172112565c5a7c0f8225b19407d916dd06b34",
+    "format": "docx",
+    "slides": 0,
+    "extracted_text_words": 293,
+    "embedded_media_files": 0,
+    "duplicate_of": null,
+    "textPath": "course-materials/text/T01.txt"
+  },
+  {
+    "id": "T02",
+    "filename": "Comp Thinking Exersize 2.docx",
+    "sha256": "a86b50df9b23db149c98bfeda020ad9afb5cc005fcc2ba097ee8af983f3fb4a2",
+    "format": "docx",
+    "slides": 0,
+    "extracted_text_words": 278,
+    "embedded_media_files": 0,
+    "duplicate_of": null,
+    "textPath": "course-materials/text/T02.txt"
+  },
+  {
+    "id": "T03",
+    "filename": "An introduction to network protocols.docx",
+    "sha256": "02697bffd421328258bbd3ce56ce2d1ce748e0332445449980941c29102e2de7",
+    "format": "docx",
+    "slides": 0,
+    "extracted_text_words": 363,
+    "embedded_media_files": 0,
+    "duplicate_of": null,
+    "textPath": "course-materials/text/T03.txt"
+  },
+  {
+    "id": "T04",
+    "filename": "EU AI Act transparency rules take effect 2 August 2026 Summary.docx",
+    "sha256": "bc98b6f2251830ef432c3b0455b3c0aa29631950bc35a13a79667a2e41ff1d03",
+    "format": "docx",
+    "slides": 0,
+    "extracted_text_words": 2125,
+    "embedded_media_files": 0,
+    "duplicate_of": null,
+    "textPath": "course-materials/text/T04.txt"
+  },
+  {
+    "id": "T05",
+    "filename": "EU_ICT_Legal_Ethical_Exercise Complete.docx",
+    "sha256": "65f9f5fbd6f7f38c65ec9e72a915e346cb47fea69d01e2db4d974da3dbac8777",
+    "format": "docx",
+    "slides": 0,
+    "extracted_text_words": 610,
+    "embedded_media_files": 0,
+    "duplicate_of": null,
+    "textPath": "course-materials/text/T05.txt"
+  },
+  {
+    "id": "T06",
+    "filename": "EU_ICT_Legal_Ethical_Exercise.docx",
+    "sha256": "7730316f674390365cb7df971ec2e321768ccd7a809b709bc2b227079de1246e",
+    "format": "docx",
+    "slides": 0,
+    "extracted_text_words": 417,
+    "embedded_media_files": 0,
+    "duplicate_of": null,
+    "textPath": "course-materials/text/T06.txt"
+  },
+  {
+    "id": "T07",
+    "filename": "Introduction to Computer Networking.docx",
+    "sha256": "63f0ec4b9605c850dd7607daa59f6ba1cf070afdcab61d155a9b8a793c1e3b61",
+    "format": "docx",
+    "slides": 0,
+    "extracted_text_words": 1140,
+    "embedded_media_files": 1,
+    "duplicate_of": null,
+    "textPath": "course-materials/text/T07.txt"
+  },
+  {
+    "id": "T08",
+    "filename": "Network Topology.docx",
+    "sha256": "ec0eaaa9fa4c898c2667c108778374238313deb2505bf2f1453ad06690f3bbac",
+    "format": "docx",
+    "slides": 0,
+    "extracted_text_words": 1830,
+    "embedded_media_files": 4,
+    "duplicate_of": null,
+    "textPath": "course-materials/text/T08.txt"
+  },
+  {
+    "id": "T09",
+    "filename": "The EU Artificial Intelligence Act (1) (1).pptx",
+    "sha256": "0682604085c88f3fae72ec9e29f797f7f60e703e3b96aec0617cc8618d9256b9",
+    "format": "pptx",
+    "slides": 6,
+    "extracted_text_words": 475,
+    "embedded_media_files": 5,
+    "duplicate_of": null,
+    "textPath": "course-materials/text/T09.txt"
+  },
+  {
+    "id": "T10",
+    "filename": "Understanding the OSI model for designing networks.docx",
+    "sha256": "88d075da6ee4a0aad9f61328e8dcfe8d4f8f283824a97e564a64d5400250ebbf",
+    "format": "docx",
+    "slides": 0,
+    "extracted_text_words": 693,
+    "embedded_media_files": 1,
+    "duplicate_of": null,
+    "textPath": "course-materials/text/T10.txt"
+  },
+  {
+    "id": "T11",
+    "filename": "What is a Computer (1).docx",
+    "sha256": "a700702f53eefc28388cdd103af95b50256720b3c9f0ae328c3e7006badba3ac",
+    "format": "docx",
+    "slides": 0,
+    "extracted_text_words": 1073,
+    "embedded_media_files": 2,
+    "duplicate_of": null,
+    "textPath": "course-materials/text/T11.txt"
+  },
+  {
+    "id": "T12",
+    "filename": "What is a Computer.docx",
+    "sha256": "a700702f53eefc28388cdd103af95b50256720b3c9f0ae328c3e7006badba3ac",
+    "format": "docx",
+    "slides": 0,
+    "extracted_text_words": 1073,
+    "embedded_media_files": 2,
+    "duplicate_of": "T11",
+    "textPath": "course-materials/text/T11.txt"
+  },
+  {
+    "id": "T13",
+    "filename": "Computer Components.pptx",
+    "sha256": "f51292821efb560e3a5597a6f12d58b11d3ef30d1b10d99bb12c30e23d2270e4",
+    "format": "pptx",
+    "slides": 9,
+    "extracted_text_words": 293,
+    "embedded_media_files": 14,
+    "duplicate_of": null,
+    "textPath": "course-materials/text/T13.txt"
+  },
+  {
+    "id": "T14",
+    "filename": "What is abstraction (1).pptx",
+    "sha256": "5a48c949e799dace52d4fe94100ba023ad2550ce60e44221910bbe47e88d2e4c",
+    "format": "pptx",
+    "slides": 10,
+    "extracted_text_words": 634,
+    "embedded_media_files": 8,
+    "duplicate_of": null,
+    "textPath": "course-materials/text/T14.txt"
+  },
+  {
+    "id": "T15",
+    "filename": "What is an algorithm (1).pptx",
+    "sha256": "f445bb269f2b246f4cb027e2235fcc52554bf355f7ed191bb5a1cc1da38be6f1",
+    "format": "pptx",
+    "slides": 11,
+    "extracted_text_words": 562,
+    "embedded_media_files": 9,
+    "duplicate_of": null,
+    "textPath": "course-materials/text/T15.txt"
+  },
+  {
+    "id": "T16",
+    "filename": "What is computational thinking.pptx",
+    "sha256": "0bca01140637c3cc6c4e91ba501ebdf689bca8ab2c3e6458f39810cbcce7d155",
+    "format": "pptx",
+    "slides": 9,
+    "extracted_text_words": 578,
+    "embedded_media_files": 7,
+    "duplicate_of": null,
+    "textPath": "course-materials/text/T16.txt"
+  },
+  {
+    "id": "T17",
+    "filename": "What is cryptography in networking.docx",
+    "sha256": "6bbf5e2da7ae683e79274eae8b7609ce05b1e9468d404637a892388f4ecc44e7",
+    "format": "docx",
+    "slides": 0,
+    "extracted_text_words": 296,
+    "embedded_media_files": 1,
+    "duplicate_of": null,
+    "textPath": "course-materials/text/T17.txt"
+  },
+  {
+    "id": "T18",
+    "filename": "What is pattern recognition (1).pptx",
+    "sha256": "091ccfc640c342365f24597a10f3a0116277ffd01b7120ec6e10498ba5650bd5",
+    "format": "pptx",
+    "slides": 12,
+    "extracted_text_words": 773,
+    "embedded_media_files": 7,
+    "duplicate_of": null,
+    "textPath": "course-materials/text/T18.txt"
+  },
+  {
+    "id": "T19",
+    "filename": "What is decomposition (3).pptx",
+    "sha256": "f13d6713a340d988df0980e80e5a9329573a139ebe972d1fb513cde8ba8071f8",
+    "format": "pptx",
+    "slides": 9,
+    "extracted_text_words": 551,
+    "embedded_media_files": 6,
+    "duplicate_of": null,
+    "textPath": "course-materials/text/T19.txt"
+  },
+  {
+    "id": "T20",
+    "filename": "Obligations-on-Providers-of-General-Purpose-AI-GPAI-Models-What-Developers-Need-to-Know.pptx (1).pptx",
+    "sha256": "16f8bceade5390f45412e4b95a6f0effabfff979b0d007d1fa4c712f76edcb5a",
+    "format": "pptx",
+    "slides": 11,
+    "extracted_text_words": 897,
+    "embedded_media_files": 10,
+    "duplicate_of": null,
+    "textPath": "course-materials/text/T20.txt"
+  }
+]

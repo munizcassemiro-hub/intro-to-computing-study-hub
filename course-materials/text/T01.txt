@@ -1,0 +1,95 @@
+In-Class Practical Exercise: Computational Thinking
+
+Learning Objectives
+
+By the end of the activity, students should be able to:
+
+Break a complex problem into smaller parts (decomposition).
+
+Identify important information and ignore unnecessary details (abstraction).
+
+Identify repeated features or behaviours (pattern recognition).
+
+Develop a clear sequence of instructions to solve a problem (algorithmic thinking).
+
+Explain how computational thinking can be applied to everyday problems.
+
+Scenario: Making the Perfect Cup of Tea 
+
+Your school wants to create a simple computer-controlled machine that can make a cup of tea.
+
+The machine needs to know exactly what to do, but it can only follow clear instructions.
+
+Part 1 – Decomposition
+
+Working in pairs, break the task “Make a cup of tea” into smaller tasks.
+
+Write down at least 8 separate steps.
+
+For example:
+
+Get a cup.
+
+...
+
+Challenge: Can you identify any steps that could themselves be broken into smaller tasks?
+
+Part 2 – Abstraction
+
+Imagine that a computer is controlling the tea-making machine.
+
+The following information is available:
+
+The colour of the cup
+
+The amount of water required
+
+The type of tea
+
+The student's name
+
+The temperature of the water
+
+The colour of the student's shoes
+
+Whether milk is required
+
+The student's favourite football team
+
+The brewing time
+
+Task
+
+Decide which information the machine actually needs.
+
+Create two columns:
+
+[TABLE]
+
+Relevant information | Irrelevant information
+
+ | 
+
+ | 
+
+ | 
+
+Question: Why is it useful to ignore irrelevant information when solving a problem?
+
+Part 3 – Pattern Recognition
+
+Look at the following sequences:
+
+Sequence A:2, 4, 6, 8, 10, __, __
+
+Sequence B:5, 10, 15, 20, __, __
+
+Sequence C:Monday, Wednesday, Friday, __, __
+
+Task
+
+Identify the pattern in each sequence and predict the next two items.
+
+Then discuss:
+
+How does recognising patterns help when designing computer programs?

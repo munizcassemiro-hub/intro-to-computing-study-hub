@@ -1,0 +1,80 @@
+
+[SLIDE 1]
+Intro to Computing
+Computer Components
+ Created by Sam Weiss
+sweiss@cct.ie
+
+
+[SLIDE 2]
+Motherboard
+CPU (Central Processing Unit)
+GPU (Graphics Processing Unit)
+RAM (Random Access memory)
+Hard Drive 
+Hard Disk Drive (HDD) or Solid State Drive (SSD)
+Fans
+NIC (Network Interface Card)
+I/O (Inputs and Outputs)
+CMOS Battery
+Power Supply
+TPM (Trusted Platform Module, necessary for Windows 11)
+Cool RGB Lighting (Red, Green, Blue) 
+Optional
+Main Computer Components
+
+
+[SLIDE 3]
+The printed circuit board (PCB) that holds and connects all the computer’s subsystems
+Motherboard
+
+
+[SLIDE 4]
+Central Processing Unit
+Executes the instructions in a programme.
+Can perform basic arithmetic, logic, controlling and I/O operations.
+The CPU chip can have more than one CPU “core”, so more work can be done at once.
+It is also made up of other subsystems.
+CPU
+
+
+[SLIDE 5]
+Graphic processing unit.
+Specialised unit that is efficient at computer graphics and image processing.
+Can process many things in parallel (at the same time).
+Can have GPUs integrated into the CPU.
+GPU
+
+
+[SLIDE 6]
+Random Access Memory
+Data can be read and changed in any order, in the same amount of time.
+Is generally volatile: stored information is lost if power is lost.
+RAM
+
+
+[SLIDE 7]
+Where data can be stored in the long term.
+Hard Disk Drive 
+Uses magnetic storage on rotating platters to store data. 
+Magnetic heads can then read the data.
+Solid State Drive
+Uses flash memory, like on USB drives.
+Generally faster (higher data-transfer rates).
+SATA – Serial AT Attachment
+The drives are connected to the motherboard via  a bus cable.
+NVMe – Non Volatile Memory Express
+The drive is placed on the motherboard
+Hard Drive
+
+
+[SLIDE 8]
+Handles all the networking
+Ethernet
+WiFi
+Maybe Bluetooth
+Maybe IoT (Zigbee, Z-wave)
+Network Interface Card
+
+
+[SLIDE 9]

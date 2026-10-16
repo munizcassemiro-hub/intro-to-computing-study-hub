@@ -1,0 +1,55 @@
+Understanding the OSI model for designing networks
+
+The Open Systems Interconnection (OSI) model is a conceptual framework used to understand how different network components interact and communicate.
+
+It's crucial in networking because it provides a standardized framework that defines how data should be transmitted between different devices in a network.
+
+Not only that, but it also helps with:
+
+Framework for Understanding: The OSI model helps break down the complex process of networking into more manageable, conceptual layers, each responsible for handling different aspects of the communication. This layered approach makes it easier to learn and understand how networks operate
+
+Troubleshooting: Knowing the OSI model assists in troubleshooting network issues by allowing you to pinpoint which layer a particular problem is occurring at. For example, if there is a problem with data not reaching its destination, you might look at the Transport layer (Layer 4) to ensure there are no issues with data transmission protocols
+
+Designing Networks: When designing a network, the OSI model provides guidelines that help in structuring and developing network services and devices. It ensures that these components can work together seamlessly, regardless of their underlying architecture
+
+Communication Between Different Systems: The OSI model ensures that products and software from different manufacturers can communicate effectively. By adhering to the standards set by each layer of the OSI model, different network technologies can interoperate successfully
+
+Educational Tool: For anyone studying IT or networking, the OSI model is a fundamental concept that helps students and professionals understand network architecture, the roles of protocols, and the functions of networking hardware.
+
+The OSI model is important to understand because it standardizes the networking process, ensuring devices can communicate effectively regardless of their differences.
+
+If you understand this, then you can work on almost any network and troubleshoot issues.
+
+The 7 layers of the OSI model
+
+The OSI model is divided into seven layers, each defining specific network functions:
+
+Physical Layer (Layer 1): This is the most basic layer of the model. It defines the physical characteristics of the network, including cabling, connectors, signal strength, and the like
+
+Data Link Layer (Layer 2): This layer manages how data is transmitted over the physical layer, handling error-checking and delivering and receiving packets
+
+Network Layer (Layer 3): The Network Layer manages the routing and forwarding of packets. It assigns IP addresses and manages network traffic
+
+Transport Layer (Layer 4): This layer manages the delivery of data between devices. It is responsible for error checking and data recovery, ensuring that data transfer is reliable
+
+Session Layer (Layer 5): The Session Layer establishes, manages, and terminates connections between applications on each end. It also coordinates the communication process
+
+Presentation Layer (Layer 6): This layer is a translator, converting data into a format that applications can understand. It also manages encryption and compression
+
+Application Layer (Layer 7): The Application Layer is what users interact with directly. It includes protocols for email, file transfer, and web browsing
+
+Each layer of the OSI model has a specific role in network communication, so understanding this model is invaluable. It provides a roadmap to the sometimes complex workings of networks, making it easier to troubleshoot and manage them effectively.
+
+So, now that you understand the OSI model, let’s take a quick look at some of the basics of network security.
+
+Understanding the basics of network security
+
+Network security is about preventing unauthorized access, misuse, or denial of a network's resources. In simple terms, it's about taking measures to protect the network's data from being intercepted, manipulated, or interrupted.
+
+For example,
+
+A few years back, professional football players were having their homes robbed - even though they had fairly good home security systems.
+
+It turns out that they all had smart devices (smart fridges, etc) connected to their home's Wi-Fi, and the devices had very basic security in place. (Because who would care if you hacked a fridge, right?). However, this then gave hackers backdoor access to the entire home security network!
+
+So as you can see, network security should be top of mind when setting up any network, be it a home network or an enterprise-level one - even if you don’t specialize in cybersecurity.

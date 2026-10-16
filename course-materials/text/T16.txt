@@ -1,0 +1,63 @@
+
+[SLIDE 1]
+What is computational thinking?
+Lecturer: David McQuaid
+
+
+[SLIDE 2]
+Computers can be used to help us solve problems. However, before a problem can be tackled, the problem itself and the ways in which it could be solved need to be understood.
+Computational thinking allows us to do this.
+Computational thinking allows us to take a complex problem, understand what the problem is and develop possible solutions. We can then present these solutions in a way that a computer, a human, or both, can understand.
+What is computational thinking?
+
+
+[SLIDE 3]
+There are four key techniques (cornerstones) to computational thinking:
+Decomposition
+breaking down a complex problem or system into smaller, more manageable parts
+Pattern recognition
+looking for similarities among and within problems
+Abstraction
+focusing on the important information only, ignoring irrelevant detail
+Algorithms
+developing a step-by-step solution to the problem, or the rules to follow to solve the problem
+The four cornerstones of computational thinking
+
+
+[SLIDE 4]
+Each cornerstone is as important as the others. They are like legs on a table - if one leg is missing, the table will probably collapse. Correctly applying all four techniques will help when learning to programme.
+
+
+[SLIDE 5]
+Thinking computationally is not programming. It is not even thinking like a computer, as computers do not, and cannot, think.
+Simply put, programming tells a computer what to do and how to do it. Computational thinking enables you to work out exactly what to tell the computer to do.
+For example, if you agree to meet your friends somewhere you have never been before, you will probably plan your route before you step out of your house. You might consider the routes available and which route is ‘best’ - this might be the route that is the shortest, the quickest, or the one which goes past your favourite shop on the way. You'd then follow the step-by-step directions to get there. In this case, the planning part is like computational thinking, and following the directions is like programming.
+Thinking computationally
+
+
+[SLIDE 6]
+Being able to turn a complex problem into one we can easily understand is a skill that is extremely useful. In fact, it's a skill you already have and probably use every day.
+For example, it might be that you need to decide what to do with your group of friends. If all of you like different things, you would need to decide:
+what you could do
+where you could go
+who wants to do what
+what you have previously done that has been a success in the past
+how much money you have and the cost of any of the options
+what the weather might be doing
+how much time you have
+
+
+[SLIDE 7]
+Another example might occur when playing a videogame. Depending on the game, in order to complete a level, you would need to know:
+what items you need to collect, how you can collect them, and how long you have in which to collect them
+where the exit is and the best route to reach it in the quickest time possible
+what kinds of enemies there are and their weak points
+From these details you can work out a strategy for completing the level in the most efficient way.
+If you were to create your own computer game, these are exactly the types of questions you would need to think about and answer before you were able to program your game.
+
+
+[SLIDE 8]
+
+
+
+[SLIDE 9]

@@ -1,0 +1,63 @@
+In-Class Exercise: European Legal, Ethical and Professional Issues in ICT
+
+Overview
+
+Students act as a review board for a fictional EU health-tech startup, applying EU law and professional codes to one case 
+
+Learning outcomes. Identify which EU instruments apply to an ICT product, separate legal from ethical and professional duties, and justify a clear recommendation.
+
+[TABLE]
+
+Phase | Time | Activity
+
+Brief | 5 min | Tutor reads the scenario; groups get their task
+
+Group work | 20 min | Each group answers its two questions
+
+Board meeting | 15 min | Each group presents for 3 minutes
+
+Debrief | 10 min | Whole-class discussion
+
+Materials. Moodle Notes and 
+
+Scenario: MediMind
+
+MediMind, a 40-person Dublin startup, sells MindCheck, an AI app that triages mental-health symptoms for 300,000 users in Ireland, Germany, France and Poland. This month:
+
+Data deal. A US insurer offers €2m for "anonymised" data that still includes age, postcode, symptoms and timestamps.
+
+Model update. A retrained model under-refers over-65s to emergency care 12% more often. Marketing wants it live in two weeks.
+
+Breach. Chat logs of 8,000 users were exposed for 11 days. Found Monday; it is now Wednesday and nobody has been told.
+
+Forum. The peer-support forum has self-harm posts and users who appear to be under 16.
+
+Whistleblower. Priya, a junior developer and BCS member, flagged the bias and was told to "stop being difficult".
+
+The CEO asks the board: launch, delay, or change course?
+
+Group tasks
+
+Each group gives the board the law that applies, the ethical issue beyond it, and one recommendation.
+
+[TABLE]
+
+Group | Role | Event | Questions
+
+1 | Data Protection Officer | Data deal | Is this data really anonymous under GDPR? Could it lawfully go to the US, and should it?
+
+2 | AI Governance Lead | Model update | What AI Act risk tier applies, and what must happen before launch? Does the deadline matter?
+
+3 | Security Officer | Breach | When must the regulator and users be told? What should the user notice say?
+
+4 | Trust and Safety Manager | Forum | What does the DSA require once harmful posts are known? How should under-16s be handled?
+
+5 | Professional Standards Adviser | Whistleblower | Which BCS or ACM code clauses apply? How should Priya escalate, and what protects her?
+
+Debrief
+
+Was anything legal but still wrong, or unethical but legal?
+
+Does EU regulation protect users or push innovation out of Europe?
+
+If you were Priya, what would you do on Monday?

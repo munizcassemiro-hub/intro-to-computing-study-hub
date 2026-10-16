@@ -1,0 +1,49 @@
+
+[SLIDE 1]
+
+
+
+[SLIDE 2]
+The EU AI Act is a European regulation on artificial intelligence (AI) – the first comprehensive regulation on AI by a major regulator anywhere in the world.
+Understanding the AI Act is essential for organisations looking to innovate with AI while complying with both legal and ethical standards.
+As AI's capabilities and business benefits have grown, so have its complexities and risks, driving governments worldwide to address how best to protect the public while not stifling innovation.
+As of August 2024, The AI Act is now in force. With tiered implementation dates ranging from six months to over a year out, organisations still have time to understand what exactly compliance under the act entails.
+What is the EU Artificial Intelligence Act?
+
+
+[SLIDE 3]
+The Regulation lays down:
+harmonised rules for the placing on the market, the putting into service, and the use of AI systems in the EU
+prohibitions of certain AI practices
+specific requirements for high-risk AI systems and obligations for operators of such systems
+harmonised transparency rules for certain AI systems
+harmonised rules for the placing on the market of general-purpose AI models
+rules on market monitoring, market surveillance, governance and enforcement
+measures to support innovation, with a particular focus on SMEs, including startups.
+What does the EU AI Act actually do?
+
+
+[SLIDE 4]
+The new regulation applies to;
+Providers placing on the market or putting into service AI systems or general-purpose AI models in the EU, irrespective of whether those providers are established or located within the EU or in a third country
+Deployers of AI systems that have their place of establishment or are located within the EU
+Providers and Deployers of AI systems that have their place of establishment or are located in a third country, where the output produced by the AI system is used in the EU
+Importers and Distributors of AI systems
+Product Manufacturers placing on the market or putting into service an AI system together with their product and under their own name or trademark
+Authorised Representatives of providers, which are not established in the EU
+Affected Persons that are located in the EU
+Who does the Act apply to?
+
+
+[SLIDE 5]
+The Act’s Risk-Based Regulatory Approach
+The Act distinguishes AI systems based on their risk levels to human rights, health, safety, and societal impacts. It outright bans AI systems considered to pose unacceptable risks, while high-risk AI systems can be deployed under stringent conditions. The Act focuses on high-risk
+applications, ensuring that critical areas such as healthcare, law enforcement, and employment are subject to stringent requirements,
+promoting trust and safety in their development and deployment in the EU market.
+Given their system risk profile, the Act subjects all general-purpose AI (GPAI) models to transparency requirements, with high-impact GPAI models facing even more rigorous obligations.
+
+
+[SLIDE 6]
+Useful Resources
+https://artificialintelligenceact.eu
+https://enterprise.gov.ie/en/what-we-do/innovation-research-develop ment/artificial-intelligence/eu-ai-act/

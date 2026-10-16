@@ -1,0 +1,124 @@
+
+[SLIDE 1]
+Obligations on Providers of General-Purpose AI (GPAI) Models: What Developers Need to Know
+General-Purpose AI (GPAI) refers to highly adaptable AI systems designed to perform a wide range of tasks across diverse fields, such as generating text, images, or audio, rather than being built for one specific function. 
+
+[NOTES]
+1
+
+
+[SLIDE 2]
+General-Purpose Of AI Model
+AI model is a program trained on a large dataset to recognize patterns and make decisions . The main purpose of an AI model is to simulate close intelligence to humans in order to solve specific problems, make predictions and automate tasks without any human intervention.
+
+[NOTES]
+2
+
+
+[SLIDE 3]
+Who is a GPAI Provider?
+A GPAI provider develops or commissions the development of a general Purpose AI model and places it on the EU market, whether for payment or free of charge.
+
+[NOTES]
+3
+
+
+[SLIDE 4]
+Core Obligations Under the AI Act (Effective August 2, 2025)
+Technical Documentation
+that can be used by AI Office, national regulators and downstream prividers.
+Policy Compliance
+Ensure that policies require compliance with EW laws on copyrights, intellectual property and other rights.
+Training Data Summary
+Developing and making available a detailed summary of the content used for training the model
+Cybersecurity Protection 
+ensure the data protection from cyberthreats 
+These foundational obligations are designed to foster trust and accountability in AI development. 
+
+[NOTES]
+4
+
+
+[SLIDE 5]
+GPAI Models with Systemic Risk: Stricter Requirements
+Art. 55 AI Act If a GPAI is judged to have systematic risk, for instance, large scale, potential harm to society, fundamental right etc. the providers of general-purpose AI models with this risk shall:
+Perform model evaluation by using the standardised protocols and tools reflecting the state of art, this involves testing of the model to identify and mitigating systematic risks.
+Keep track of document and report with undue delay, to the AI office and relevant national authorities.
+Assess and lessen possible systematic risks at Union level (i.e. across EU member states) from development, deployment or the use of general-purpose AI models with systemic risk.
+Ensure an adequate cybersecurity protection for the GPAI model and its infrastructure. 
+
+[NOTES]
+5
+
+
+[SLIDE 6]
+The GPAI Code of Practice: Voluntary but Strategic
+Transparency/Information Duties These is connected into both core and systemic-risk obligations, and they are particularly important in the AI act framework:
+Labelling of AI generated or manipulated content in a machine-readable format so that it can be detectable.
+Deployers must inform individuals when systems like emotions recognition or biometric categorization are in use and process all data in full compliance with the EU data protection laws.
+The providers should ensure that users know when they are interacting with AI system unless it is obvious.
+
+[NOTES]
+6
+
+
+[SLIDE 7]
+Compliance Tools and Support from the EU AI Office
+Guidelines clarifying definitions, provider scope, and systemic risk criteria.
+AI Office offers technical support and expects informal collaboration during the transitional period.
+
+[NOTES]
+7
+
+
+[SLIDE 8]
+Practical Impact for Developers
+These are some of the impact on developers:
+01
+Increased Documentation workload
+Developer needs to record training data choices, testing, evaluation and updates
+02
+Copyright responsibilities
+Ensuring training data respects copyright law; risk of liability if not managed
+03
+Systemic Risk Compliance (for large models)
+needs adversarial testing, risk assessment and incident reporting.
+04
+Higher compliance Costs
+smaller labs or companies may face resources challenges compared to a big tech firm.   
+
+[NOTES]
+8
+
+
+[SLIDE 9]
+Risks of Non-Compliance
+uthorities may impose administrative fines for noncompliance or insufficient compliance, including whichever amount is higher in each of the following cases:
+Up to EUR35 million or 7 percent of global annual income for violationd relating to prohibited AI practices
+Up to EUR15 million or 3 percent of global annual income for violating  certain other obligations like failure to comply with with requirements for high risk AI systels ( transparency, data quality and human oversight), also not providing documentations and reports to authorities and non complience sith the obligations
+Up to EUR 7.5 million or 1% of global annual income for providing incorrect, incomplete, or misleading information to public authorities.  
+
+[NOTES]
+9
+
+
+[SLIDE 10]
+Conclusion: Navigating the New GPAI Regulatory Landscape
+The EU AI Act sets a global precedent with clear, measurable obligations for GPAI providers. Transparency, copyright respect, and systemic risk management are central pillars. Developers must act now to align with evolving rules and leverage voluntary tools like the Code of Practice. Proactive compliance ensures innovation with confidence and access to the EU market.
+
+[NOTES]
+10
+
+
+[SLIDE 11]
+References:
+“Art. 50 Transparency Obligations for Providers and Deployers of Certain AI Systems - EU AI Act.” Euaiact.com, 2016, www.euaiact.com/article/50. Accessed 17 Apr. 2025.
+“Article 50: Transparency Obligations for Providers and Users of Certain AI Systems and GPAI Models | EU Artificial Intelligence Act.” EU Artificial Intelligence Act, 2025, artificialintelligenceact.eu/article/50/. Accessed 16 Sept. 2025.
+“Article 53: Obligations for Providers of General-Purpose AI Models | EU Artificial Intelligence Act.” Artificialintelligenceact.eu, 2014, artificialintelligenceact.eu/article/53/. Accessed 20 Sept. 2025.
+European Union. “Regulation - EU - 2024/1689 - EN - EUR-Lex.” Europa.eu, 2024, eur-lex.europa.eu/eli/reg/2024/1689/oj/eng. Accessed 16 Sept. 2025.
+Karabo Mokoena, and Karabo Mokoena. “GPAI Laws under the EU AI Act Effective from August 2025.” Michalsons, 22 Sept. 2025, www.michalsons.com/blog/gpai-laws-under-the-eu-ai-act-effective-from-august-2025/79421. Accessed 18 Sept. 2025.
+IBM. “AI Model.” Ibm.com, 13 Sept. 2023, www.ibm.com/think/topics/ai-model.
+“Latest Wave of Obligations under the EU AI Act Take Effect: Key Considerations | DLA Piper.” DLA Piper, 2025, www.dlapiper.com/en/insights/publications/2025/08/latest-wave-of-obligations-under-the-eu-ai-act-take-effect.
+
+[NOTES]
+11

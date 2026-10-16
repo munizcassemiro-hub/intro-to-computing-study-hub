@@ -1,0 +1,23 @@
+What is cryptography in networking?
+
+Cryptography originally stems from the world of espionage and secret messages.
+
+In the context of networking and cybersecurity, cryptography is about ensuring that the data you send across a network, be it text, images, or any other form, is only readable by the intended recipient.
+
+It achieves this with 2 processes: Encryption and Decryption.
+
+Encryption: This is the process of transforming plain text data into something that appears to be random and meaningless, called 'ciphertext'. This is done with the use of an encryption algorithm and a key
+
+Decryption: This is the reverse of encryption, where the ciphertext is turned back into plain text. This is done with a decryption algorithm and a key
+
+Simple enough, right?
+
+However, there are two main types of cryptography. One is faster but more vulnerable, while the other is slower but more secure. The big difference is the number of keys used.
+
+So, let’s break them down:
+
+Symmetric Cryptography: In this instance, the same key is used for both encryption and decryption. This method is fast and efficient but poses a risk if the key is lost or stolen. Think of how the same car key can be used to both lock and unlock your car door. If someone had access to it, they could steal your car
+
+Asymmetric Cryptography: Also known as public-key cryptography, is where two different keys are used - one for encryption and one for decryption (public key and private key). In this instance, one key could lock your car, but it would take a different key to open it.
+
+This means there are more hoops to jump through, but the main advantage is that even if the encryption key is known, the data cannot be decrypted without the other key.

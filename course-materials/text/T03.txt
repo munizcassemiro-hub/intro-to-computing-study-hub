@@ -1,0 +1,23 @@
+An introduction to network protocols
+
+As I said before, a network protocol is a set of rules that govern the exchange of data over a network, just like traffic on a highway has to stick to certain rules and laws.
+
+As  IT professionals, we need to understand these. Simply because these different protocols define the format and order of the messages exchanged between two or more communicating entities, the actions taken on the transmission and/or receipt of a message, or other communication event.
+
+That being said, there are hundreds of different protocols, each designed for specific purposes and environments, so in the interests of staying sane, here are a few of the most important ones that you should know about, so you can get a rough idea:
+
+Internet Protocol (IP): IP is the primary protocol in the Internet Layer of the Internet Protocol Suite and has the task of delivering packets from the source host to the destination host based on their addresses
+
+Transmission Control Protocol (TCP): TCP is one of the main protocols in the Internet Protocol Suite. It provides reliable, ordered, and error-checked delivery of data between applications running on hosts communicating over an IP network
+
+User Datagram Protocol (UDP): UDP is an alternative to TCP and is suitable for purposes where error checking and correction are either not necessary or are performed in the application instead
+
+Hypertext Transfer Protocol (HTTP): HTTP is the foundation of any data exchange on the Web and is a client-server protocol, which means requests are initiated by the recipient, usually the Web browser
+
+File Transfer Protocol (FTP): FTP is used to transfer computer files between a client and server on a computer network
+
+Simple Mail Transfer Protocol (SMTP): SMTP is used to send emails and route email between mail servers
+
+Although we’ve only covered the basics of just a few of the more popular protocols here, you will need to learn more as you go deeper into your career, as they affect traffic on your network.
+
+Don’t worry about it too much for now though. Like I’ve said a few times, this is just the introduction so you can understand the core ideas and concepts.

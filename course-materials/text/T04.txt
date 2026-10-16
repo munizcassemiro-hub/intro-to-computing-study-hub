@@ -1,0 +1,157 @@
+Is it a bot? EU AI Act transparency rules take effect 2 August 2026
+
+Overview
+
+A chatbot that sounds human, an image generator that produces photorealistic content, a voice cloning tool - they all make it harder to distinguish machine-produced content from human-created work. The risks of sophisticated generative and interactive AI - misinformation, manipulation at scale, impersonation, and fraud - are growing. From 2 August 2026, the EU AI Act requires businesses to be open about AI: to tell people when they are talking to a machine, mark synthetic content so its origin can be detected, label deepfakes, and warn individuals when AI is analysing their emotions or categorising them biometrically.  This briefing explains how the transparency obligations fall on providers and deployers of AI.
+
+Who is caught?
+
+The four transparency obligations: what do they require?
+
+The Code of Practice and Guidelines
+
+How do the AI Act transparency requirements interact with other laws?
+
+Practical steps for businesses
+
+Who is caught?
+
+Article 50 of the AI Act imposes distinct obligations on providers and deployers.
+
+·       A provider is an entity that develops an AI system, or has one developed, and places it on the market or puts it into service under its own name or trade mark. 
+
+·       A deployer is an entity that uses an AI system under its own authority in a professional capacity.  The Commission's Guidelines clarify that "authority" means assuming responsibility over the decision to deploy the system and over the manner of its actual use, including its outputs; technical control over the AI system is not required.  Conversely, where a creative agency alone decides whether and how to use AI, the labelling obligation sits with the agency, not the commissioning client.
+
+Both roles carry obligations regardless of where the business is established. Providers outside the EU are caught where outputs are intended for use in the EU - "intended" means foreseeable use, not incidental or unauthorised downstream use. For deployers, Article 50 applies where the deployer foresees that outputs will be disseminated or used in the EU e.g. by posting deepfake content on the globally accessible internet.
+
+The four transparency obligations: what do they require?
+
+Article 50 establishes four distinct obligations, split between providers and deployers.  A horizontal requirement runs across all four: information must be provided to the people concerned in a clear and distinguishable manner, at the latest at the time of first interaction or exposure and must conform to applicable accessibility requirements. Information will not meet this standard if it can easily be overlooked, for example, if it is buried in terms and conditions or hidden under layers of menu options.
+
+Disclose to people that they are interacting with a machine (Article 50(1) - providers)
+
+Providers of AI systems that interact directly with people must ensure those people know they are dealing with AI, not a human and, where an agent acts on another's behalf, the identity of that person or entity. This covers chatbots, AI voice assistants, AI companions, bots on social networks, and agentic AI systems that autonomously contact individuals (e.g., an AI agent making phone calls or sending emails on behalf of a business).
+
+The only exception is where the AI aspect of the interaction is "obvious", but the European Commission Guidelines interpret this very narrowly. The test is whether it would be obvious to a "reasonably well-informed, observant and circumspect" person, taking into account the target audience.
+
+What would be treated as "obvious"?
+
+Obvious (no disclosure required):
+
+AI-powered code assistance chatbots used only by professional developers
+
+AI-enabled Non-Playable Characters (NPCs) in a single-player video game, where the nature of the game makes clear that no other people can participate
+
+Not obvious (disclosure required):
+
+An AI-powered robotic companion pet designed to mimic real human-pet interaction
+
+AI chatbots embedded in online helpdesks where users may perceive the output as human-generated
+
+AI systems in immersive environments using realistic avatars, particularly where children or elderly users are involved
+
+Article 50(1) only applies where there is a direct, two way exchange between the AI system and a human. Backend decision-support systems (where a user simply receives an AI-generated output without interacting with the system itself) fall outside the scope of this obligation.
+
+Providers must ensure disclosure occurs at the time of first interaction - meaning each new individual who encounters the system, not merely the first time the system is used generally.  Where the deployment involves children, elderly users, or individuals in sensitive domains - health, legal, financial advice, insurance, and complaints handling - periodic contextual reminders are likely to be required in addition to the initial notice.
+
+Mark AI-generated content so it can be detected (Article 50(2) - providers)
+
+Providers of AI systems that generate synthetic audio, images, video or text must: (i) mark their outputs in a machine-readable format; and (ii) provide a corresponding means of detection – so that people can identify these as artificially generated or manipulated.  Marking alone, without a detection solution, is not sufficient. The marking must be embedded using metadata, watermarks, or other interoperable techniques - not visible to end users, but effective and robust enough to survive routine modifications.
+
+Providers of general-purpose AI models are encouraged to implement marking at model level to facilitate downstream compliance, but this does not transfer the provider's own responsibility to verify and demonstrate compliance.
+
+The Code of Practice (section 3 below) reflects the current state of the art: for most content, providers should apply at least two marking layers - digitally signed metadata (where the content format supports it) and an imperceptible watermark embedded within the content itself.  For free-form text, where metadata cannot be carried and watermarking is inherently less reliable, a single layer of watermarking is treated as sufficient (and there are carve-outs for short text). 
+
+Standard editing (grammar correction, spellchecking, translation, minor cropping, or noise reduction) is exempt. But AI-generated summaries, face alterations, adding or removing objects from images, or converting black-and-white to colour, all require marking.
+
+Real-time content that is ephemeral and consumed immediately without being recorded, stored, or disseminated further - such as in video games or virtual reality - is also exempt where marking is not technically feasible and users are made aware of the AI origin through in-experience or session-level disclosure.
+
+Watch out - "industrial/B2B" is not a blanket exemption:
+
+Many businesses assume that purely industrial or B2B AI applications are exempt. The Guidelines confirm that the B2B exception under Article 50(2) is very narrow and applies only where three cumulative requirements are met: (i) the AI system's output is strictly technical in nature (e.g., engineering designs, industrial production workflows) (ii) the output is only intended to be perceived by a limited pre-defined number of professionals within the organisation and (iii) the output must not be intended to be shared outside the organisation, with safeguards against wider dissemination.
+
+Code signatories must implement an interoperability solution for watermark detection by 2 February 2027, so that content can be verified without running it against every provider's detection solution separately.
+
+There is no obligation to retrospectively mark content produced before 2 August 2026; for systems already on the market before that date, the AI Omnibus extends the deadline to 2 December 2026.
+
+Disclose emotion recognition and biometric categorisation (Article 50(3) - deployers)
+
+Deployers must inform people who are exposed to emotion recognition or biometric categorisation systems that such a system is in operation. This applies to both real-time and ex post systems.
+
+For example, a video game that records a player's facial expressions to capture their emotions must display a prominent pop-up notice before play begins. A retail store using facial recognition to categorise visitors by age group must provide a visible notice at each entrance.
+
+Label deepfakes and AI-generated public interest text (Article 50(4) - deployers)
+
+This obligation has two limbs, both directed at deployers.
+
+Deepfakes: Deployers must disclose that image, audio or video content constituting a "deepfake" has been artificially generated or manipulated - regardless of whether it is published.
+
+What counts as a deepfake?
+
+An AI-generated or manipulated image, audio or video qualifies as a deepfake where it resembles existing persons, objects, places, entities or events and would falsely appear to a person to be authentic or truthful.  The Guidelines interpret "existing" broadly to include subjects that can plausibly exist or could plausibly have existed, bringing photorealistic portraits of invented people within scope. The "falsely appears authentic" test is assessed against the foreseeable audience, with a lower threshold where that audience includes children or other vulnerable groups.
+
+Examples of deepfakes (labelling required):
+
+An AI-generated video of a person resembling a politician giving a speech
+
+An AI-generated depiction of a celebrity influencer in an advertisement
+
+AI-manipulated audio involving voice cloning of a podcast's presenters
+
+Not deepfakes (no labelling required):
+
+An AI-generated video of mice arguing over cheese in human language (unrealistic)
+
+For artistic, creative, satirical or fictional works, deployers must still label the content but may do so in a way that does not hamper its display or enjoyment - for example in credits or accompanying notes rather than overlaid on the content. The Guidelines construe this narrowly: where content combines informative and creative elements, the informative character prevails, and the scope for reduced labelling in advertising is minimal.
+
+AI-generated text published on matters of public interest: such text must be labelled unless it has undergone human editorial review, and a natural or legal person holds "editorial responsibility".   If there is substantive AI intervention after editorial sign-off the exception is lost.
+
+The Code of Practice and Guidelines
+
+The Commission has published two key implementation instruments.
+
+The Guidelines were finalised on 20 July 2026 and provide interpretive guidance on all four Article 50 obligations. They are not legally binding, however, national market surveillance authorities and the AI Office are expected to follow the Guidelines closely. 
+
+The Code of Practice offers the only EU-recognised framework for demonstrating compliance with Article 50(2) (marking and detection) and Article 50(4) (labelling). It does not cover Article 50(1) (interactive AI systems) or Article 50(3) (emotion recognition and biometric categorisation). The Code is voluntary and, while adherence is not conclusive evidence of compliance, it reduces the burden of justifying choices to market surveillance authorities.  Non-signatories will need to demonstrate compliance by other means and should expect closer regulatory scrutiny.
+
+How do the AI Act transparency requirements interact with other laws?
+
+Article 50 obligations apply alongside existing legal obligations.
+
+GDPR: GDPR transparency obligations (Articles 13 - 14) and data protection impact assessments apply alongside  Article 50(3).
+
+Digital Services Act: The DSA imposes separate (complementary but non-overlapping) AI content labelling obligations on very large online platforms.
+
+Consumer protection: Failure to disclose AI interaction may also constitute a misleading practice under the Unfair Commercial Practices Directive.
+
+Businesses should also check applicable national law alongside their AI Act compliance as some Member States have introduced additional transparency rules.
+
+Practical steps for businesses
+
+Key dates and penalties
+
+2 August 2026 - Transparency obligations under Article 50 apply (except Article 50(2) for systems placed on market before 2 August 2026)
+
+2 December 2026 - Article 50(2) marking obligations apply to generative AI systems on the market before 2 August 2026
+
+2 February 2027 – Watermark detection interoperability commitment applies for Code of Practice signatories
+
+Penalties can be up to €15 million or 3% of global annual turnover (whichever is higher) for non-compliance
+
+What should you be doing now?
+
+Map AI systems. Identify all AI systems you provide or deploy, including third-party tools accessed via application programming interface or embedded in products.
+
+Classify your role. Determine whether you are a provider, deployer, or both for each system.
+
+Audit interaction points. For any AI system that interacts with individuals, assess whether the "obviousness" exception genuinely applies. If in doubt, disclose.
+
+Assess content pipelines. Identify all points at which AI-generated content is created or published. Machine-readable marking may be implemented at different stages of the value chain, but the provider remains responsible for compliance.
+
+Review vendor contracts. Ensure upstream providers are contractually committed to embedding appropriate markings and providing detection tools; downstream distribution agreements should require preservation of metadata and labels.
+
+Consider Code sign-up. Evaluate whether the streamlined compliance benefit justifies signing up to the Code, particularly if you generate or distribute AI content at scale.  The initial sign-up window closed on 22 July 2026, but further windows are expected. Code signatories relying on watermarking must implement an interoperability solution for watermark detection by 2 February 2027 and should be assessing their technical approach now. 
+
+Update governance and document exemptions. If you rely on any exception (e.g., obviousness, editorial responsibility, artistic use), document the reasoning. Businesses deploying emotion recognition or biometric categorisation systems should review privacy notices, records of processing activities, and data protection impact assessments alongside their Article 50(3) compliance work.
+
+(Smith, 2026)

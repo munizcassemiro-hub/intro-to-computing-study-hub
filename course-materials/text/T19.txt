@@ -1,0 +1,68 @@
+
+[SLIDE 1]
+What is decomposition?
+Lecturer: David McQuaid
+
+
+[SLIDE 2]
+Decomposition is one of the four cornerstones of Computer Science. It involves breaking down a complex problem or system into smaller parts that are more manageable and easier to understand. The smaller parts can then be examined and solved, or designed individually, as they are simpler to work with.
+What is decomposition?
+
+
+[SLIDE 3]
+If a problem is not decomposed, it is much harder to solve. Dealing with many different stages all at once is much more difficult than breaking a problem down into a number of smaller problems and solving each one, one at a time. Breaking the problem down into smaller parts means that each smaller problem can be examined in more detail.
+Similarly, trying to understand how a complex system works is easier using decomposition. For example, understanding how a bicycle works is more straightforward if the whole bike is separated into smaller parts and each part is examined to see how it works in more detail.
+Why is decomposition important?
+
+
+[SLIDE 4]
+We do many tasks daily without even thinking about – or decomposing – them, such as brushing our teeth.
+Example 1: Brushing our teeth
+To decompose the problem of how to brush our teeth, we would need to consider:
+which toothbrush to use
+how long to brush for
+how hard to press on our teeth
+what toothpaste to use
+Decomposition in practice
+
+
+[SLIDE 5]
+Example 2: Solving a crime
+It is only normally when we are asked to do a new or more complex task that we start to think about it in detail – to decompose the task.
+Imagine that a crime has been committed. Solving a crime can be a very complex problem as there are many things to consider.
+For example, a police officer would need to know the answer to a series of smaller problems:
+what crime was committed
+when the crime was committed
+where the crime was committed
+what evidence there is
+if there were any witnesses
+if there have recently been any similar crimes
+The complex problem of the committed crime has now been broken down into simpler problems that can be examined individually, in detail.
+
+
+[SLIDE 6]
+Imagine that you want to create your first app. This is a complex problem - there are lots of things to consider.
+Question
+How would you decompose the task of creating an app?
+Decomposing creating an application
+
+
+[SLIDE 7]
+To decompose this task, you would need to know the answer to a series of smaller problems:
+what kind of app you want to create
+what your app will look like
+who the target audience for your app is
+what your graphics will look like
+what audio you will include
+what software you will use to build your app
+how the user will navigate your app
+how you will test your app
+where you will sell your app
+This list has broken down the complex problem of creating an app into much simpler problems that can now be worked out. You may also be able to get other people to help you with different individual parts of the app. For example, you might have to employ someone who can create the graphics, while another will be your tester.
+
+
+[SLIDE 8]
+
+
+
+[SLIDE 9]

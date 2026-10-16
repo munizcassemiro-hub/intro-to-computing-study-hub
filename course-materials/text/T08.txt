@@ -1,0 +1,223 @@
+Network Topology
+
+What's the difference between network topology and computer networks?
+
+In simple terms, the difference between network topology and a computer network can be thought of as the difference between the layout and its size or scope.
+
+Network Topology
+
+Network topology refers to the arrangement or layout of devices within a network.
+
+You can think of it almost like the floor plan of a house, showing how rooms (devices) are connected via doors or hallways (network links).
+
+Knowing the topology of a network helps you understand how data flows within it, and how the network can be managed and expanded.
+
+Computer Networks
+
+A computer network, on the other hand, refers to the scale or reach of the network. Essentially, how big the network is and who it serves.
+
+If we look at the same network topology analogy, this can then be the difference in the size of the floor plan. Is it a single house, a neighbourhood, or even an entire city?
+
+Understanding the scale of a computer network (or even the required scale) can help you decide what kind of network infrastructure and technologies are needed to connect devices across short or long distances.
+
+The topology refers to the layout, while the computer network refers to the scale and size.
+
+Understanding both aspects is crucial because the layout (topology) and the size (type of network) together determine the overall design, functionality, and capabilities of a network.
+
+With that out of the way, let’s look at both of these in more detail.
+
+An introduction to different network topologies
+
+Understanding the different network topologies is crucial, whether you aim to become a DevOps Engineer or enhance your knowledge in cybersecurity.
+
+This is because each topology has its own set of advantages and challenges that can significantly impact network performance, cost, and reliability.
+
+Here's a quick breakdown of the major topology types:
+
+Bus Topology
+
+Pros: Cost-effective, easy to implement, and requires fewer cables than other configurations, reducing initial setup costs
+
+Cons: If the main cable (backbone) fails, the entire network goes down. It can become slower and more error prone as more nodes are added
+
+Practical Application: In DevOps, uptime is critical. The simplicity of a bus topology can be appealing for smaller setups, but its vulnerability to single points of failure is a significant risk
+
+Ring Topology
+
+Pros: Each packet of data travels around the ring, reducing the chance of packet collisions. A simple protocol can be used to manage data transmission
+
+Cons: A failure in any wire or node can disrupt the entire network. Adding or removing nodes can temporarily disrupt the network
+
+Practical Application: For applications requiring consistent performance and uptime, the ring topology's dependency on continuous connections might be a hindrance
+
+Star Topology
+
+Pros: High reliability, so if one link fails, only that node is affected. It’s easy to add or remove nodes without disrupting the entire network
+
+Cons: Requires more cable than bus or ring topologies. If the central hub fails, the whole network goes down
+
+Practical Application: The star topology's central management makes it ideal for networks where managing and monitoring traffic centrally is critical, like in data centers
+
+Mesh Topology
+
+Pros: Provides high reliability and redundancy. If one node or connection fails, data can reroute through another path
+
+Cons: It's expensive and complex to install and manage due to the large number of cables and connections
+
+Practical Application: In environments where communication must never fail (like in trading systems), mesh topology offers the necessary robustness, but at a higher cost
+
+Tree/Hybrid Topology
+
+Pros: Allows more devices to connect to a single hub and combines the benefits of star and bus topologies. It's scalable and easy to manage
+
+Cons: Highly dependent on the main bus cable, so if it fails, that entire segment of the network goes down
+
+Practical Application: Suitable for large networks like campuses, where both broad coverage and reliability are required
+
+Understanding the pros and cons of each of these options helps us to make informed decisions about which network design to choose for both performance and cost-effectiveness.
+
+The 6 common types of computer networks
+
+Just like how there are different topology options, there are also different types of computer network options available.
+
+However, the best network type to use for a given situation is mainly determined by factors like its intended geographical coverage, the number of users/devices it needs to support, and the security level required.
+
+Here are the most common types:
+
+#1. Personal Area Network (PAN)
+
+The smallest and most basic network type, a PAN typically covers a small area like a room and is used for connecting personal devices such as computers, phones, printers, and gaming consoles. Connections can be wired or wireless.
+
+For example,
+
+When you enable a mobile hotspot on your phone to allow other devices like laptops, tablets, or other phones to connect to the internet through your mobile's data connection, you are essentially setting up a PAN.
+
+This network configuration allows the devices within proximity to your phone to access the internet or communicate with each other via your phone's connection, making your phone the central node of this personal network.
+
+Pros: Highly convenient for connecting personal devices within close proximity; can be easily set up and managed; both wired and wireless connections are possible
+
+Cons: Limited range and not suitable for more than a few devices; not ideal for larger or more demanding network tasks
+
+#2. Local Area Network (LAN)
+
+A LAN connects devices within a limited area, like a house, school, or office building. It's typically owned, controlled, and managed by a single person or organization.
+
+Back in the day, if you wanted to play against someone on a PC game, you would need multiple PCS connected via a LAN cable, and that is where the term ‘LAN party’ originated.
+
+Pros: Ideal for small to medium-sized areas like homes, schools, or offices; offers high speed and relatively low latency
+
+Cons: Limited to a small geographical area, and requires significant cabling and infrastructure for larger setups
+
+#3. Wireless Local Area Network (WLAN)
+
+Similar to a LAN but wireless. If you've connected to Wi-Fi at home or in a café, you've used a WLAN.
+
+Pros: Provides all the benefits of a LAN without the need for physical cables, so it has added flexibility and ease of connectivity
+
+Cons: However, this type of network is more susceptible to interference and security risks when compared to wired networks. You always want to use a VPN if you’re using public wi-fi. Not only that, but wi-fi performance can be affected by physical barriers like walls
+
+#4. Wide Area Network (WAN)
+
+A WAN spans large geographical areas, such as a city, a country, or even the whole world. The Internet is the most well-known example of a WAN.
+
+Pros: Covers large geographical areas, which is ideal for businesses with multiple locations; enables a vast reach
+
+Cons: High setup and maintenance costs; complexity in managing and securing such a network. (This is assuming we’re setting up the infrastructure)
+
+#5. Metropolitan Area Network (MAN)
+
+A MAN is larger than a LAN but smaller than a WAN. It's used to connect LANs within a specific geographical area, like a city or a large campus, or even multiple government offices across a city.
+
+Pros: Ideal for connecting several LANs within a city; can serve as the backbone for high-speed connectivity across a metropolitan area
+
+Cons: Requires significant investment in infrastructure and maintenance; operational costs can be high
+
+#6. Virtual Private Network (VPN)
+
+A VPN extends a private network across public networks, allowing users to exchange data across shared or public networks as if their computing devices were directly connected to the private network.
+
+A common use could be employees connecting to their company’s network remotely from different geographical locations. But in more recent years, they’ve become popular with general internet usage for added security
+
+Pros: Provides secure connections over public networks, offering privacy and security for data transmission
+
+Cons: Can introduce latency and potentially slower speeds, and requires proper setup and management to ensure security
+
+Each of these network types is designed to cater to specific requirements, and each has its strengths and weaknesses. Depending on the circumstance, one may be more suitable than the others. You couldn’t make a hotspot on your mobile for an entire city to use, right!?
+
+Let’s take this another step further and look at networks that are used in enterprise-level settings, where scale and traffic size (or even added security) might be a goal.
+
+The 5 types of Enterprise-Level computer networks
+
+Enterprise networks are large networks that can be spread across multiple locations. They need to be secure, reliable, and scalable to keep the organization's operations running smoothly.
+
+Here are five common types of enterprise-level networks.
+
+#1. Campus Area Network (CAN)
+
+A CAN is larger than a LAN but smaller than a MAN and is typically used to connect various buildings.
+
+For example,
+
+Universities use CANs to link libraries, academic halls, student centres, and more into a single network.
+
+Pros:
+
+Ideal for covering larger geographic areas such as university campuses or large business sites
+
+Effectively supports a large number of users and integrates multiple buildings into a single network
+
+Cons:
+
+High setup and maintenance costs
+
+Requires sophisticated network management tools and skilled personnel
+
+#2. Enterprise Private Network (EPN)
+
+An EPN is built and used exclusively by an organization, connecting local and wide-area networks.
+
+For example,
+
+Multinational companies often establish EPNs to connect their offices across different countries securely and privately.
+
+Pros: Provides complete control over the network infrastructure, enhancing security and customization
+
+Cons: Expensive to establish and maintain as connectivity and bandwidth needs grow
+
+#3. Data Centre Network (DCN)
+
+A DCN provides communication between data centre resources, such as storage systems and servers, and is designed for reliability and scalability.
+
+For example,
+
+Cloud service providers utilize DCNs to ensure fast and reliable access between storage and computing resources.
+
+Pros: High availability and robustness for critical data centre operations
+
+Cons: Complexity and high costs associated with advanced technology and redundancy
+
+#4. Storage Area Network (SAN)
+
+A SAN connects servers to data storage devices, providing access to shared storage, crucial for environments handling large data volumes.
+
+For example,
+
+Financial institutions use SANs for managing extensive transaction data, allowing for improved performance and resource utilization.
+
+Pros: Consolidates storage resources, enhancing performance and utilization
+
+Cons: High initial investment and requires specific expertise to manage
+
+#5. System Area Network (SAN), also known as Cluster Area Network (CAN)
+
+This type of network offers high-speed connections suitable for high-performance computing environments like server clusters.
+
+For example,
+
+Research institutions deploy SANs to perform complex simulations and data analyses, requiring rapid data transfer between servers.
+
+Pros: Facilitates efficient and high-speed data transfer for demanding applications
+
+Cons: Expensive to implement and maintain; typically used for specialized applications
+
+We’ve only covered the basics of each type of network here, but as you can see, each option has its pros and cons depending on its setup and your goal.

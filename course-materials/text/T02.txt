@@ -1,0 +1,103 @@
+Part 4 – Algorithm Design
+
+Write an algorithm for making a cup of tea.
+
+Your algorithm must:
+
+Have a clear starting point.
+
+Contain instructions in the correct order.
+
+Include a decision about whether milk is required.
+
+Have a clear ending.
+
+Use pseudocode or numbered instructions.
+
+For example:
+
+START
+
+Fill the kettle with water
+
+...
+
+IF milk is required THEN
+
+    Add milk
+
+END IF
+
+...
+
+STOP
+
+Challenge
+
+Swap your algorithm with another group.
+
+The other group must follow your instructions exactly as written.
+
+If they cannot complete the task, identify which instruction needs to be improved.
+
+Part 5 – Debugging Challenge
+
+Your teacher will provide an intentionally incorrect algorithm.
+
+Example:
+
+START
+
+Pour water into the cup
+
+Put the tea bag in the bin
+
+Add milk
+
+Boil the water
+
+Put the tea bag in the cup
+
+Drink the tea
+
+STOP
+
+Task
+
+Identify at least 3 errors.
+
+Rewrite the algorithm so that it works correctly.
+
+Final Challenge – The Human Robot 
+
+One student in each group becomes the “robot”.
+
+The robot can only follow instructions given by the other students.
+
+Give the robot instructions to:
+
+Move from one side of the classroom to a specific object.
+
+Rules:
+
+The robot cannot make decisions for itself.
+
+Instructions must be precise.
+
+The robot can only move according to the instructions provided.
+
+If an instruction is unclear, the robot must stop.
+
+Reflection Questions
+
+Answer the following:
+
+Which computational thinking skill did you use most?
+
+Why is decomposition useful when solving large problems?
+
+What happens when an algorithm contains an unclear instruction?
+
+How is debugging similar to finding mistakes in everyday tasks?
+
+Give one example of computational thinking that you use outside of a computer classroom.

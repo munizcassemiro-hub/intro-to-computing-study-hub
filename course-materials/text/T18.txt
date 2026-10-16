@@ -1,0 +1,83 @@
+
+[SLIDE 1]
+What is pattern recognition?
+Lecturer: David McQuaid
+
+
+[SLIDE 2]
+When we decompose a complex problem we often find patterns among the smaller problems we create. The patterns are similarities or characteristics that some of the problems share.
+Pattern recognition is one of the four cornerstones of Computer Science. It involves finding the similarities or patterns among small, decomposed problems that can help us solve more complex problems more efficiently.
+What is pattern recognition?
+
+
+[SLIDE 3]
+Imagine that we want to draw a series of cats.
+All cats share common characteristics. Among other things they all have eyes, tails and fur. They also like to eat fish and make meowing sounds.
+Because we know that all cats have eyes, tails and fur, we can make a good attempt at drawing a cat, simply by including these common characteristics.
+In computational thinking, these characteristics are known as patterns.
+What are patterns?
+
+
+[SLIDE 4]
+Once we know how to describe one cat, we can describe others, simply by following this pattern. The only things that are different are the specifics:
+one cat may have green eyes, a long tail and black fur
+another cat may have yellow eyes, a short tail and striped fur
+
+
+[SLIDE 5]
+Finding patterns is extremely important. Patterns make our task simpler. Problems are easier to solve when they share patterns, because we can use the same problem-solving solution wherever the pattern exists.
+The more patterns we can find, the easier and quicker our overall task of problem solving will be.
+If we want to draw a number of cats, finding a pattern to describe cats in general, eg they all have eyes, tails and fur, makes this task quicker and easier.
+We know that all cats follow this pattern, so we don’t have to stop each time we start to draw a new cat to work this out. From the patterns we know cats follow, we can quickly draw several cats.
+Why do we need to look for patterns?
+
+
+[SLIDE 6]
+Suppose we hadn’t looked for patterns in cats. Each time we wanted to draw a cat, we would have to stop and work out what a cat looked like. This would slow us down.
+We could still draw our cats - and they would look like cats - but each cat would take far longer to draw. This would be very inefficient, and a poor way to go about solving the cat-drawing task.
+In addition, if we don’t look for patterns, we might not realise that all cats have eyes, tails and fur. When drawn, our cats might not even look like cats. In this case, because we didn’t recognise the pattern, we would be solving the problem incorrectly.
+What happens when we don’t look for patterns?
+
+
+[SLIDE 7]
+To find patterns in problems we look for things that are the same (or very similar) in each problem. It may turn out that no common characteristics exist among problems, but we should still look.
+Patterns exist among different problems and within individual problems. We need to look for both.
+Recognising patterns
+
+
+[SLIDE 8]
+To find patterns among problems we look for things that are the same (or very similar) for each problem.
+For example, 
+Decomposing the task of baking a cake would highlight the need for us to know the solutions to a series of smaller problems:
+what kind of cake we want to bake
+what ingredients we need and how much of each
+how many people we want to bake the cake for
+how long we need to bake the cake for
+when we need to add each ingredient
+what equipment we need
+Patterns among different problems
+
+
+[SLIDE 9]
+Once we know how to bake one particular type of cake, we can see that baking another type of cake is not that different - because patterns exist.
+For example:
+each cake will need a precise quantity of specific ingredients
+ingredients will get added at a specific time
+each cake will bake for a specific period of time
+Once we have the patterns identified, we can work on common solutions between the problems.
+
+
+[SLIDE 10]
+Patterns may also exist within the smaller problems we have decomposed as well.
+If we look at baking a cake, we can find patterns within the smaller problems, too. For example, for ‘each cake will need a precise quantity of specific ingredients’, each ingredient needs:
+identifying (naming)
+a specific measurement
+Once we know how to identify each ingredient and its amount, we can apply that pattern to all ingredients. Again, all that changes is the specifics.
+Patterns within problems
+
+
+[SLIDE 11]
+
+
+
+[SLIDE 12]
